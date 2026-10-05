@@ -49,7 +49,7 @@
         } catch (error) {
             console.error("Error loading products:", error);
             productsGrid.innerHTML = `<div style="text-align:center; width:100%; color:var(--color-secondary);">
-                <p>Erro ao carregar o catÃ¡logo. Tente atualizar a pÃ¡gina.</p>
+                <p>Erro ao carregar o catalogo ¡logo. Tente atualizar a pagina.</p>
             </div>`;
         }
     }
@@ -157,7 +157,7 @@
             
             const isMale = product.gender === 'masculino';
             const sizesInfoHTML = isMale ? `<div class="product-sizes-info">Tamanhos: P, M, G, GG</div>` : '';
-            const codeHTML = product.code ? `<div class="product-code" style="font-size: 0.75rem; color: var(--color-secondary); margin-bottom: 0.25rem;">CÃ³d: ${product.code}</div>` : '';
+            const codeHTML = product.code ? `<div class="product-code" style="font-size: 0.75rem; color: var(--color-secondary); margin-bottom: 0.25rem;">Cod: ${product.code}</div>` : '';
 
             card.innerHTML = `
                 <div class="product-image-wrapper">
@@ -207,7 +207,7 @@
         
         saveCart();
         updateCartUI();
-        showToast("Produto adicionado Ã  sacola!");
+        showToast("Produto adicionado a sacola!");
     }
 
     function updateQuantity(id, change) {
@@ -292,7 +292,7 @@
     function checkoutWhatsApp() {
         if (cart.length === 0) return;
         
-        let message = "OlÃ¡ IE! Gostaria de encomendar os seguintes itens:\n\n";
+        let message = "Olá, Gostaria de encomendar os seguintes itens:\n\n";
         
         cart.forEach((item, index) => {
             let itemDetails = `${index + 1}. ${item.name} (Qtd: ${item.quantity})`;
@@ -301,7 +301,7 @@
             }
             message += itemDetails + '\n';
             if (item.gender === 'masculino') {
-                message += `   *Nota: O tamanho serÃ¡ definido com o vendedor.*\n`;
+                message += `   *Nota: O tamanho sera definido com o vendedor.*\n`;
             }
             message += `   Ref: ${item.category}\n\n`;
         });
