@@ -297,7 +297,7 @@
         cart.forEach((item, index) => {
             let itemDetails = `${index + 1}. ${item.name} (Qtd: ${item.quantity})`;
             if (item.code) {
-                itemDetails += ` - CÃ³d: ${item.code}`;
+                itemDetails += ` - Cod: ${item.code}`;
             }
             message += itemDetails + '\n';
             if (item.gender === 'masculino') {
