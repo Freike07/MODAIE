@@ -1,968 +1,1026 @@
 ﻿[
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "ce9697e5-73ac-4348-9041-56288c31533d",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0015.jpg",
-        "code":  "IE-1 Sortida"
+        "code":  "6983"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "606d2db0-f5fd-43db-af73-07e95c9e675f",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0016.jpg",
-        "code":  "IE-2 Sortida"
+        "code":  "6914"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "392cef1c-1bb0-469c-a5fb-666abdf32d9b",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0017.jpg",
-        "code":  "IE-3 Sortida"
+        "code":  "5053"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "41035ba5-5bf7-4c1b-9f3f-14468c0e7c8d",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0018.jpg",
-        "code":  "IE-4 Sortida"
+        "code":  "7859"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "5ea792fb-353e-40ea-83a4-66a9568eeffa",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0019.jpg",
-        "code":  "IE-5 Sortida"
+        "code":  "4193"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "cc4526e3-a33b-4756-93b7-050b02e1483a",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0020.jpg",
-        "code":  "IE-6 Sortida"
+        "code":  "0197"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "59821faa-f6b6-438d-9992-1922cad63e87",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0021.jpg",
-        "code":  "IE-7 Sortida"
+        "code":  "2781"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "b09c74c7-aea1-46d2-9077-dfbc23b4ce22",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0022.jpg",
-        "code":  "IE-8 Sortida"
+        "code":  "3439"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "e2fb226f-bfdc-43df-bcd4-e1508649dee4",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0023.jpg",
-        "code":  "IE-9 Sortida"
+        "code":  "7110"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "f96de82e-dd66-491e-8a9d-5bd59e672b92",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0057.jpg",
-        "code":  "IE-10 Sortida"
+        "code":  "2013"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "abdb0209-9f76-4a4e-8802-f82d5fe73edc",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0061.jpg",
-        "code":  "IE-11 Sortida"
+        "code":  "8167"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "cf443b2a-1270-424c-885a-b4b45f4a1fe4",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0063.jpg",
-        "code":  "IE-12 Sortida"
+        "code":  "8289"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "2f6f21ce-996d-4993-b8a4-13044904fe77",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0064.jpg",
-        "code":  "IE-13 Sortida"
+        "code":  "8323"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "ed5b7e65-03c6-4f7b-8239-59c1a45684f7",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0065.jpg",
-        "code":  "IE-14 Sortida"
+        "code":  "6084"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "542496de-356e-489c-b48a-8bb76964b21c",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0066.jpg",
-        "code":  "IE-15 Sortida"
+        "code":  "7132"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "c115c629-95bc-48a2-ae68-fff6c935b116",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0067.jpg",
-        "code":  "IE-16 Sortida"
+        "code":  "5176"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "bd399cce-726d-4c72-830e-4d003c85d651",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0068.jpg",
-        "code":  "IE-17 Sortida"
+        "code":  "8851"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "b310cb1b-6f22-4339-b223-13d4df3448ac",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260914-WA0069.jpg",
-        "code":  "IE-18 Sortida"
+        "code":  "0086"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "04b8ea25-95aa-4214-b25e-1bcea1095219",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0017.jpg",
-        "code":  "IE-19 Sortida"
+        "code":  "4716"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "f6ab4ff1-fe8e-45f3-a2ab-88ad24480c4f",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0019.jpg",
-        "code":  "IE-20 Sortida"
+        "code":  "6718"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "140fdb8e-10ac-4fa1-966f-a9c3641a1df1",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0025.jpg",
-        "code":  "IE-21 Sortida"
+        "code":  "8864"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "3b708676-96a9-4c85-87ed-55f8c9e6678a",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0031.jpg",
-        "code":  "IE-22 Sortida"
+        "code":  "8978"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "8fb0c117-63a0-42a8-9f18-5877e1017cd8",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0033.jpg",
-        "code":  "IE-23 Sortida"
+        "code":  "9977"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "b1d6ea09-f7a6-4d68-8262-d28a2e4dc001",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0035.jpg",
-        "code":  "IE-24 Sortida"
+        "code":  "5445"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "47ca0360-2a6a-48ea-b0a8-641e4cfd9cfd",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0037.jpg",
-        "code":  "IE-25 Sortida"
+        "code":  "7798"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "7f915b73-d3fb-499b-8375-a332351411d4",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0038.jpg",
-        "code":  "IE-26 Sortida"
+        "code":  "4980"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "dc39207e-3f8a-488c-bcfa-c61eb97de57d",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0040.jpg",
-        "code":  "IE-27 Sortida"
+        "code":  "4770"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "4b40d465-c0be-44d4-9b27-88e5f40aa0f4",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0041.jpg",
-        "code":  "IE-28 Sortida"
+        "code":  "5801"
     },
     {
         "category":  "Bermudas",
-        "name":  "Model Bermudas",
+        "name":  "Bermuda Masculina",
         "id":  "d032768a-473e-471b-bb86-ea1fff6b4eeb",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bermudas/IMG-20260922-WA0042.jpg",
-        "code":  "IE-29 Sortida"
+        "code":  "9040"
     },
     {
         "category":  "Camisa polo",
-        "name":  "Polo Brooksfield",
+        "name":  "Camisa Polo Masculina",
         "id":  "56b428b1-ee16-4761-aa22-8e81a1967eb4",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisa polo/IMG-20260914-WA0058.jpg",
-        "code":  "B-1 Azul Claro"
+        "code":  "4995"
     },
     {
         "category":  "Camisa polo",
-        "name":  "Polo Brooksfield",
+        "name":  "Camisa Polo Masculina",
         "id":  "a69eb677-8cac-4b0e-b9b0-2eb88465f56a",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisa polo/IMG-20260914-WA0059.jpg",
-        "code":  "B-1 Marinho/Azul"
+        "code":  "0848"
     },
     {
         "category":  "Camisa polo",
-        "name":  "Polo Brooksfield",
+        "name":  "Camisa Polo Masculina",
         "id":  "ea93f638-d939-4152-8fe5-b3ad3aeaea7b",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisa polo/IMG-20260914-WA0060.jpg",
-        "code":  "B-1 Marinho/Amarelo"
+        "code":  "0573"
     },
     {
         "category":  "Camisetas",
-        "name":  "Camiseta Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "0575648a-38f4-49c4-b034-678a85e95a00",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0081.jpg",
-        "code":  "A-1 Azul Marinho"
+        "code":  "3379"
     },
     {
         "category":  "Camisetas",
-        "name":  "Camiseta Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "057ba006-421e-4d08-b155-4e2491fa2765",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0082.jpg",
-        "code":  "A-1 Cinza Claro"
+        "code":  "5657"
     },
     {
         "category":  "Camisetas",
-        "name":  "Camiseta Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "a0d38832-930d-43ad-bd48-2a154de06e1a",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0083.jpg",
-        "code":  "A-2 Preta"
+        "code":  "7696"
     },
     {
         "category":  "Camisetas",
-        "name":  "Camiseta Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "406d5d07-3556-4825-bc79-6b64a059e5d2",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0084.jpg",
-        "code":  "A-3 Branca/Preta"
+        "code":  "8389"
     },
     {
         "category":  "Camisetas",
-        "name":  "Camiseta Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "951758df-2938-46d1-848e-be68fd64b83a",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0085.jpg",
-        "code":  "A-3 Preta/Branca"
+        "code":  "9111"
     },
     {
         "category":  "Camisetas",
-        "name":  "Camiseta Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "c0432ec1-ffa2-44f1-af1f-5b61a184654a",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0086.jpg",
-        "code":  "A-4 Azul/Marinho"
+        "code":  "0695"
     },
     {
         "category":  "Camisetas",
-        "name":  "Camiseta Lacoste",
+        "name":  "Camiseta Masculina",
         "id":  "77eec18c-2706-4c5b-b309-59bc8708345f",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0087.jpg",
-        "code":  "L-1 Branca"
+        "code":  "9361"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "7ce73cf5-8d30-48e0-8442-5067d64ed43c",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0088.jpg",
-        "code":  "A-1 Vinho"
+        "code":  "6928"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "fac1786e-bc26-455e-ab32-09e792f97309",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0089.jpg",
-        "code":  "IE-30 Sortida"
+        "code":  "7287"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "b68b04ef-ebb9-4699-93d1-a099cb32e098",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0090.jpg",
-        "code":  "IE-31 Sortida"
+        "code":  "5622"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "bd14c324-dfb9-41b2-8c44-78d1459e5c52",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0091.jpg",
-        "code":  "IE-32 Sortida"
+        "code":  "6678"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "7e18bd4d-7208-493a-9731-69d2899f525c",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0092.jpg",
-        "code":  "IE-33 Sortida"
+        "code":  "1817"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "bd3af6a2-0a4d-413b-b708-3d68205c7dbd",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0093.jpg",
-        "code":  "IE-34 Sortida"
+        "code":  "7273"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "529c53a7-d2e2-4607-8ed1-78bcb8b572cc",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0094.jpg",
-        "code":  "A-1 Preto"
+        "code":  "1087"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "2f8f0b9c-b091-423f-97e6-106aa87f5a3c",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0095.jpg",
-        "code":  "IE-35 Sortida"
+        "code":  "0779"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "147c1702-9004-49a9-975b-64e1c1114591",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0096.jpg",
-        "code":  "IE-36 Sortida"
+        "code":  "8105"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "bc1b8552-ad78-4880-aaaf-2d692a33220d",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0097.jpg",
-        "code":  "IE-37 Sortida"
+        "code":  "5255"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "88f7c458-dfae-4a77-8867-69687b75f5a4",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0098.jpg",
-        "code":  "IE-38 Sortida"
+        "code":  "1213"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "cb134a3e-bce9-4329-85d0-f9b0c324a63f",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0099.jpg",
-        "code":  "IE-39 Sortida"
+        "code":  "4566"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "37c1bf71-bcab-493e-89fa-bbc57f8b6428",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0100.jpg",
-        "code":  "IE-40 Sortida"
+        "code":  "7654"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Nike",
+        "name":  "Camiseta Masculina",
         "id":  "aeb47f31-097d-48ca-96da-0dfcf0029532",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0101.jpg",
-        "code":  "N-1 Vermelho"
+        "code":  "6363"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "2b30c7cd-21f6-484a-a7e2-d4a80dc9fea5",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0102.jpg",
-        "code":  "IE-41 Sortida"
+        "code":  "2847"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "d25fcd7d-1515-4a54-9459-a81300d0507e",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0103.jpg",
-        "code":  "IE-42 Sortida"
+        "code":  "1317"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "1b503803-0cf2-41cf-9334-3d1cbaa165ab",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0104.jpg",
-        "code":  "IE-43 Sortida"
+        "code":  "9714"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "a8f15146-343b-450a-abfa-92352a447c34",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0105.jpg",
-        "code":  "A-1 Cinza"
+        "code":  "7449"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "14db636a-69c8-4864-9105-318c6a62e06c",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0106.jpg",
-        "code":  "IE-44 Sortida"
+        "code":  "7129"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "3b5f4d5e-9795-4422-b283-aca6a7a6e368",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0107.jpg",
-        "code":  "A-2 Preto/Cinza"
+        "code":  "1062"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "463b0138-0ff4-43db-93bc-cd3701ee0dc2",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0108.jpg",
-        "code":  "IE-45 Sortida"
+        "code":  "2312"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Nike",
+        "name":  "Camiseta Masculina",
         "id":  "2dddf00f-10da-4ec7-9c07-7f74c779f8a7",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0109.jpg",
-        "code":  "N-1 Branco"
+        "code":  "1618"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "401ceeb7-f5ed-438c-9ee1-419124cb8e0f",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0110.jpg",
-        "code":  "IE-46 Sortida"
+        "code":  "6250"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "23f2d1a3-7952-43e2-9a3b-ef1bd1709ce3",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0111.jpg",
-        "code":  "A-2 Branco/Preto"
+        "code":  "3330"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "473a5c4a-15f1-4b7b-bf5e-c4d4cf519f71",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0112.jpg",
-        "code":  "IE-47 Sortida"
+        "code":  "1362"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "8fa8b91d-813c-4e94-9b3d-b80bbca89554",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0113.jpg",
-        "code":  "IE-48 Sortida"
+        "code":  "4034"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Nike",
+        "name":  "Camiseta Masculina",
         "id":  "c2e10671-614b-4c8d-af67-9e6c095bc1bc",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0114.jpg",
-        "code":  "N-1 Preto"
+        "code":  "6539"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "e4f7fe02-f012-440d-87cd-1eadad69f2e2",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0115.jpg",
-        "code":  "IE-49 Sortida"
+        "code":  "8483"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "31d3de7f-a842-40f6-b53e-863a71823472",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0116.jpg",
-        "code":  "A-2 Cinza Escuro"
+        "code":  "5165"
     },
     {
         "category":  "Camisetas",
-        "name":  "Conjunto Adidas",
+        "name":  "Camiseta Masculina",
         "id":  "66466053-cc4e-4efa-a872-5019ccab21e5",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0117.jpg",
-        "code":  "A-2 Azul Marinho"
+        "code":  "4921"
     },
     {
         "category":  "Camisetas",
-        "name":  "Model Camisetas",
+        "name":  "Camiseta Masculina",
         "id":  "06208411-6a5c-4322-881a-214cfd20e3ab",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0118.jpg",
-        "code":  "IE-50 Sortida"
+        "code":  "6719"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "0a71f59f-5680-45d6-b386-7e7a5b340870",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0054.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0054.jpg",
+        "code":  "0187"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "701f539f-66ff-4e76-ae7c-5496ebfa4aa2",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0056.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0056.jpg",
+        "code":  "1400"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "45ce8809-180d-4019-86d1-3b4c166deabc",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0057.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0057.jpg",
+        "code":  "5755"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "29b5f8db-3d78-4c5e-9741-faa58e673452",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0058.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0058.jpg",
+        "code":  "5800"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "0349cba4-b52b-49ee-a242-3a83486d47c2",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0059.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0059.jpg",
+        "code":  "7267"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "b2e5fc84-c156-4c3f-aee8-da54cd76388a",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0060.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0060.jpg",
+        "code":  "0189"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "7e9e02eb-6f20-4cf0-817e-ee22a91818f4",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0061.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0061.jpg",
+        "code":  "3555"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "bda11cf0-2431-4f74-92e6-3c18eddad234",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0062.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0062.jpg",
+        "code":  "8667"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "4eee2102-d195-4a72-81c8-043b2b6ec517",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0063.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0063.jpg",
+        "code":  "6721"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "e3427f5d-e224-4a7e-a955-6654ba7f1624",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0064.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0064.jpg",
+        "code":  "0527"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "a434c308-5a84-421d-8c0d-890b25489730",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0065.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0065.jpg",
+        "code":  "2758"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "cea8fa23-6e83-41e2-a02a-d0944ff0445b",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0066.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0066.jpg",
+        "code":  "9057"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "c261038b-6e82-4a1a-8307-075bef20e3ae",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0067.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0067.jpg",
+        "code":  "1411"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "4967d999-6bbf-443c-823e-a6b78e1e577b",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0068.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0068.jpg",
+        "code":  "0644"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "b6e4f8be-dc85-48d3-bb11-c278061ff750",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0069.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0069.jpg",
+        "code":  "7483"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "6327820e-fd8d-4e86-85ec-e1e9cdcee7a2",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0070.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0070.jpg",
+        "code":  "2351"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "46b897ef-cb4e-4ef6-8480-4030c8f37726",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0071.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0071.jpg",
+        "code":  "8793"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "d0f0d6cb-1742-4373-94a1-82f9b8332c08",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0072.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0072.jpg",
+        "code":  "5296"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "038786b4-253e-4e55-9321-c8364347e1d0",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0073.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0073.jpg",
+        "code":  "9817"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "9d52b0d3-ccb6-4015-8e61-6519c871ca11",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0074.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0074.jpg",
+        "code":  "5965"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "e8617cf4-8bfc-4aad-8648-1fe0ddad19c2",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0075.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0075.jpg",
+        "code":  "1538"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "e50709b5-9438-44ba-8359-1e631245cb0e",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0076.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0076.jpg",
+        "code":  "8798"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "a78fb62a-f00f-4568-9fc3-06bc48a18a6b",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0077.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0077.jpg",
+        "code":  "0323"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "28d5d5e7-e4df-4c00-a2ca-31418aca510e",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0078.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0078.jpg",
+        "code":  "5466"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "c57a8fc3-cd34-46a6-80d7-41532437bc5f",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0079.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0079.jpg",
+        "code":  "4729"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "05cc57f8-2756-4a91-8753-b9400d7f6382",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0080.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0080.jpg",
+        "code":  "4623"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "f5135add-8ff3-471b-8aff-e002605f0902",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0081.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0081.jpg",
+        "code":  "1795"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "a3f54532-a63b-4504-9770-9e1f404aa93f",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0082.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0082.jpg",
+        "code":  "8279"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "ec60b9fd-0c03-4838-a601-dc4aafd3a495",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0083.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0083.jpg",
+        "code":  "7586"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "4e1e7b4b-7364-4101-a089-fe5941fa2ea7",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0084.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0084.jpg",
+        "code":  "6834"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "7b57bd38-74a8-485f-bb22-273bcb26daf7",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0085.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0085.jpg",
+        "code":  "7162"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "5fbffc01-8577-4e22-82c8-e10e7d1a09ab",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0086.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0086.jpg",
+        "code":  "7917"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "19e85cff-8a81-49af-8256-9a3f7fbcb066",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0087.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0087.jpg",
+        "code":  "0875"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "fb51663d-f518-438d-bf11-1cfe9c9d5e85",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0088.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0088.jpg",
+        "code":  "8752"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "bf7a8f94-cec8-41bd-88a9-d771db5dab56",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0089.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0089.jpg",
+        "code":  "0744"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "ccbd6adf-f2e3-4537-8a32-b196f6fe41fb",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0090.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0090.jpg",
+        "code":  "2779"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "56a103ad-0721-49d0-bd0a-2fba96690e86",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0091.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0091.jpg",
+        "code":  "1260"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "d2606d0d-8d55-400f-92d4-0613969f1a34",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0092.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0092.jpg",
+        "code":  "0610"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "d2bf812e-d6dd-4ad6-9089-e667fba8ae4d",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0093.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0093.jpg",
+        "code":  "7453"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "16f804f0-6258-4825-b8f0-e149feac082b",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0094.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0094.jpg",
+        "code":  "1172"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "81361e21-ec64-4b46-801d-1fba1d03efbd",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0095.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0095.jpg",
+        "code":  "8233"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "d67a6739-777a-44df-a2f6-6f5208099282",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0096.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0096.jpg",
+        "code":  "1366"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "0aa2a634-df54-4388-89be-bd7b3c1609d2",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0097.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0097.jpg",
+        "code":  "9432"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "7dc02e40-3b6d-494b-aa49-9fe91bec9e54",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0098.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0098.jpg",
+        "code":  "4982"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "79b08127-d061-4221-9de9-66821a2c6412",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0099.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0099.jpg",
+        "code":  "7824"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "b887191b-2f1f-4cd9-84cd-70af7ebddc98",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0100.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0100.jpg",
+        "code":  "1287"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "29da2982-650a-4f17-b378-b022606fe0c1",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0101.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0101.jpg",
+        "code":  "6581"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "6696669f-ccc1-47e1-9e23-4b4d156c8aa3",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0102.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0102.jpg",
+        "code":  "0928"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "829f496d-93fd-48e1-905d-9592d48abe65",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0103.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0103.jpg",
+        "code":  "8562"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "d8b7135a-43ea-4d2a-908c-19d677db88f0",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0104.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0104.jpg",
+        "code":  "7208"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "bd7b6b12-ae13-4626-9f93-6588c0b09898",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0105.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0105.jpg",
+        "code":  "1489"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "39cece9a-bfc2-4fb3-8c44-ca1267c897f7",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0106.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0106.jpg",
+        "code":  "9452"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "a3c919cd-65c7-45c1-95ab-40de703b8415",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0107.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0107.jpg",
+        "code":  "2608"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "fe240a51-8b51-4713-94d8-79c1e037b006",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0108.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0108.jpg",
+        "code":  "8985"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "744d19af-1dca-455d-b304-8a04d5150658",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0109.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0109.jpg",
+        "code":  "5642"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "eb759cfa-7b2f-4583-9bb8-525cc049dd5d",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0110.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0110.jpg",
+        "code":  "5793"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "d3e08a14-03ae-4be8-ba65-cb8065d3f83f",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0111.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0111.jpg",
+        "code":  "6956"
     },
     {
         "category":  "Bermuda",
-        "name":  "Linda Bermuda Feminina",
+        "name":  "Bermuda Feminina",
         "id":  "201cf542-c097-4ecc-bc68-1db9844948e5",
         "gender":  "feminino",
-        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0112.jpg"
+        "image":  "ASSETS/catalogo_feminino/Bermuda/IMG-20260921-WA0112.jpg",
+        "code":  "9160"
     }
 ]

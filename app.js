@@ -1,14 +1,16 @@
-document.addEventListener('DOMContentLoaded', () => {
+﻿document.addEventListener('DOMContentLoaded', () => {
     // State
     let products = [];
     let cart = JSON.parse(localStorage.getItem('ie_cart')) || [];
     let currentGender = 'all';
     let currentCategory = 'all';
+    let currentSearch = '';
 
     // DOM Elements
     const productsGrid = document.getElementById('productsGrid');
     const genderFilters = document.getElementById('genderFilters');
     const categoryFilters = document.getElementById('categoryFilters');
+    const searchInput = document.getElementById('searchInput');
     const cartToggle = document.getElementById('cartToggle');
     const closeCartBtn = document.getElementById('closeCart');
     const cartSidebar = document.getElementById('cartSidebar');
@@ -37,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Fetch Products
     async function fetchProducts() {
         try {
-            const response = await fetch('products.json');
+            const response = await fetch('products.json?v=' + new Date().getTime());
             if (!response.ok) throw new Error("Failed to load products");
             products = await response.json();
             
@@ -47,9 +49,17 @@ document.addEventListener('DOMContentLoaded', () => {
         } catch (error) {
             console.error("Error loading products:", error);
             productsGrid.innerHTML = `<div style="text-align:center; width:100%; color:var(--color-secondary);">
-                <p>Erro ao carregar o catálogo. Tente atualizar a página.</p>
+                <p>Erro ao carregar o catÃ¡logo. Tente atualizar a pÃ¡gina.</p>
             </div>`;
         }
+    }
+
+        // Search Listener
+    if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+            currentSearch = e.target.value.toLowerCase().trim();
+            renderProducts();
+        });
     }
 
     // Setup Filters
@@ -122,8 +132,16 @@ document.addEventListener('DOMContentLoaded', () => {
             filteredProducts = filteredProducts.filter(p => p.gender === currentGender);
         }
         
-        if (currentCategory !== 'all') {
+                if (currentCategory !== 'all') {
             filteredProducts = filteredProducts.filter(p => p.category === currentCategory);
+        }
+
+        if (currentSearch !== '') {
+            filteredProducts = filteredProducts.filter(p => {
+                const sCode = p.code ? p.code.toLowerCase() : '';
+                const sName = p.name ? p.name.toLowerCase() : '';
+                return sCode.includes(currentSearch) || sName.includes(currentSearch);
+            });
         }
 
         productsGrid.innerHTML = '';
@@ -139,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             const isMale = product.gender === 'masculino';
             const sizesInfoHTML = isMale ? `<div class="product-sizes-info">Tamanhos: P, M, G, GG</div>` : '';
-            const codeHTML = product.code ? `<div class="product-code" style="font-size: 0.75rem; color: var(--color-secondary); margin-bottom: 0.25rem;">Cód: ${product.code}</div>` : '';
+            const codeHTML = product.code ? `<div class="product-code" style="font-size: 0.75rem; color: var(--color-secondary); margin-bottom: 0.25rem;">CÃ³d: ${product.code}</div>` : '';
 
             card.innerHTML = `
                 <div class="product-image-wrapper">
@@ -189,7 +207,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         saveCart();
         updateCartUI();
-        showToast("Produto adicionado à sacola!");
+        showToast("Produto adicionado Ã  sacola!");
     }
 
     function updateQuantity(id, change) {
@@ -274,16 +292,16 @@ document.addEventListener('DOMContentLoaded', () => {
     function checkoutWhatsApp() {
         if (cart.length === 0) return;
         
-        let message = "Olá IE! Gostaria de encomendar os seguintes itens:\n\n";
+        let message = "OlÃ¡ IE! Gostaria de encomendar os seguintes itens:\n\n";
         
         cart.forEach((item, index) => {
             let itemDetails = `${index + 1}. ${item.name} (Qtd: ${item.quantity})`;
             if (item.code) {
-                itemDetails += ` - Cód: ${item.code}`;
+                itemDetails += ` - CÃ³d: ${item.code}`;
             }
             message += itemDetails + '\n';
             if (item.gender === 'masculino') {
-                message += `   *Nota: O tamanho será definido com o vendedor.*\n`;
+                message += `   *Nota: O tamanho serÃ¡ definido com o vendedor.*\n`;
             }
             message += `   Ref: ${item.category}\n\n`;
         });
@@ -296,3 +314,4 @@ document.addEventListener('DOMContentLoaded', () => {
         window.open(whatsappUrl, '_blank');
     }
 });
+

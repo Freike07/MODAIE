@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ie-catalogo-v1';
+﻿const CACHE_NAME = 'ie-catalogo-v4';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -12,6 +12,7 @@ const ASSETS_TO_CACHE = [
 
 // Install Event
 self.addEventListener('install', event => {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then(cache => {
@@ -71,6 +72,9 @@ self.addEventListener('activate', event => {
           }
         })
       );
+    }).then(() => {
+      return self.clients.claim();
     })
   );
 });
+
