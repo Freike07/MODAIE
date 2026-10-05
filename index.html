@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#F5F1E8">
+    <meta name="description" content="Catálogo IE - Vista o Melhor. Loja virtual de roupas masculinas e femininas.">
+    <title>IE - Vista o Melhor</title>
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+    
+    <!-- Icons (Fallback) -->
+    <link rel="icon" type="image/x-icon" href="ASSETS/logoIcon.ico">
+    <link rel="apple-touch-icon" href="ASSETS/logoIcon.ico">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="ASSETS/logoSemFundo.png" alt="IE Logo" class="logo-img">
+            <span class="slogan">Vista o Melhor</span>
+        </div>
+        <div class="cart-icon-wrapper" id="cartToggle">
+            <i class="fa-solid fa-bag-shopping" style="font-size: 1.5rem; color: var(--color-primary);"></i>
+            <span class="cart-count" id="cartCount">0</span>
+        </div>
+    </header>
+
+    <main>
+        <!-- Filter Bar -->
+        <section class="filters-container">
+            <div class="filter-group" id="genderFilters">
+                <button class="filter-btn active" data-gender="all">Todos</button>
+                <button class="filter-btn" data-gender="masculino">Masculino</button>
+                <button class="filter-btn" data-gender="feminino">Feminino</button>
+            </div>
+            
+            <div class="filter-group" id="categoryFilters">
+                <!-- Categories will be populated dynamically via JS -->
+            </div>
+        </section>
+
+        <!-- Product Grid -->
+        <section class="products-grid" id="productsGrid">
+            <!-- Products will be populated here by JS -->
+            <!-- Initial Skeleton Loaders -->
+            <div class="product-card">
+                <div class="product-image-wrapper skeleton"></div>
+                <div class="product-info">
+                    <div class="product-category skeleton" style="height: 12px; width: 50%; margin-bottom: 8px;"></div>
+                    <div class="product-title skeleton" style="height: 16px; width: 80%; margin-bottom: 16px;"></div>
+                    <div class="btn-add-cart skeleton" style="height: 40px; border: none;"></div>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-image-wrapper skeleton"></div>
+                <div class="product-info">
+                    <div class="product-category skeleton" style="height: 12px; width: 50%; margin-bottom: 8px;"></div>
+                    <div class="product-title skeleton" style="height: 16px; width: 80%; margin-bottom: 16px;"></div>
+                    <div class="btn-add-cart skeleton" style="height: 40px; border: none;"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Cart Overlay & Sidebar -->
+    <div class="cart-overlay" id="cartOverlay"></div>
+    <div class="cart-sidebar" id="cartSidebar">
+        <div class="cart-header">
+            <h2 class="cart-title">Sua Sacola</h2>
+            <button class="close-cart" id="closeCart">
+                <i class="fa-solid fa-xmark fa-lg"></i>
+            </button>
+        </div>
+        
+        <div class="cart-items" id="cartItemsContainer">
+            <!-- Cart items will be generated here -->
+            <div class="empty-cart" id="emptyCartMessage">
+                <i class="fa-solid fa-basket-shopping" style="font-size: 3rem; margin-bottom: 1rem; opacity: 0.5;"></i>
+                <p>Sua sacola está vazia.</p>
+            </div>
+        </div>
+        
+        <div class="cart-footer hidden" id="cartFooter">
+            <button class="btn-whatsapp" id="btnCheckout">
+                <i class="fa-brands fa-whatsapp fa-xl"></i>
+                Enviar Pedido
+            </button>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast">
+        <i class="fa-solid fa-check-circle"></i>
+        <span id="toastMessage">Adicionado à sacola</span>
+    </div>
+
+    <!-- Scripts -->
+    <script src="app.js"></script>
+    <script>
+        // Basic Service Worker Registration for PWA
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(registration => {
+                        console.log('SW registered: ', registration);
+                    })
+                    .catch(registrationError => {
+                        console.log('SW registration failed: ', registrationError);
+                    });
+            });
+        }
+    </script>
+</body>
+</html>
