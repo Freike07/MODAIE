@@ -394,14 +394,6 @@
     {
         "category":  "Camisetas",
         "name":  "Camiseta Masculina",
-        "id":  "88f7c458-dfae-4a77-8867-69687b75f5a4",
-        "gender":  "masculino",
-        "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0098.jpg",
-        "code":  "1213"
-    },
-    {
-        "category":  "Camisetas",
-        "name":  "Camiseta Masculina",
         "id":  "cb134a3e-bce9-4329-85d0-f9b0c324a63f",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Camisetas/IMG-20260912-WA0099.jpg",
@@ -1025,7 +1017,7 @@
     },
     {
         "id":  "a97c85bd-e295-47ac-aa43-62a2ceb187a8",
-        "name":  "Boné Masculino",
+        "name":  "Boné Supreme",
         "code":  "4173",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0092.jpg",
@@ -1033,7 +1025,7 @@
     },
     {
         "id":  "b214f201-92a4-4e01-b5f6-71c518b088f4",
-        "name":  "Boné Masculino",
+        "name":  "Boné Lacoste",
         "code":  "4376",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0093.jpg",
@@ -1041,7 +1033,7 @@
     },
     {
         "id":  "f0175d70-3534-4459-b89c-17cee345a897",
-        "name":  "Boné Masculino",
+        "name":  "Boné Mizuno",
         "code":  "1477",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0094.jpg",
@@ -1049,7 +1041,7 @@
     },
     {
         "id":  "b21d88ce-829e-4173-a9e3-46aabdc33dcf",
-        "name":  "Boné Masculino",
+        "name":  "Boné Ralph",
         "code":  "8639",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0095.jpg",
@@ -1057,7 +1049,7 @@
     },
     {
         "id":  "711a4772-b030-433e-9fdf-f76792ac7c5b",
-        "name":  "Boné Masculino",
+        "name":  "Boné Lacoste",
         "code":  "1029",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0096.jpg",
@@ -1065,7 +1057,7 @@
     },
     {
         "id":  "cfec37ca-e467-47ae-9350-46aef437a209",
-        "name":  "Boné Masculino",
+        "name":  "Boné Nike",
         "code":  "1865",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0097.jpg",
@@ -1073,7 +1065,7 @@
     },
     {
         "id":  "d10f2105-b595-4fe0-9532-73f7dc030298",
-        "name":  "Boné Masculino",
+        "name":  "Boné Tommy Hilfiger",
         "code":  "9158",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0098.jpg",
@@ -1081,7 +1073,7 @@
     },
     {
         "id":  "3f1605e4-4e52-43f1-b887-c589fd57eaed",
-        "name":  "Boné Masculino",
+        "name":  "Boné Puma",
         "code":  "6750",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0099.jpg",
@@ -1089,7 +1081,7 @@
     },
     {
         "id":  "a3195410-ef2b-484b-8fba-13029f38efd7",
-        "name":  "Boné Masculino",
+        "name":  "Boné Sower",
         "code":  "9258",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0100.jpg",
@@ -1097,7 +1089,7 @@
     },
     {
         "id":  "f04dc617-526f-40ef-ad37-5a88388b2330",
-        "name":  "Boné Masculino",
+        "name":  "Boné Brooksfield",
         "code":  "1883",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0102.jpg",
@@ -1105,7 +1097,7 @@
     },
     {
         "id":  "94e9c436-9aba-45d3-a6d1-b262ef94196a",
-        "name":  "Boné Masculino",
+        "name":  "Boné Brooksfield",
         "code":  "3606",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0103.jpg",
@@ -1113,7 +1105,7 @@
     },
     {
         "id":  "69bb0b72-a756-4f23-8477-b3e0a9f0fdff",
-        "name":  "Boné Masculino",
+        "name":  "Boné Brooksfield",
         "code":  "4502",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0104.jpg",
@@ -1121,7 +1113,7 @@
     },
     {
         "id":  "737a702d-3c7a-4e6f-89ec-5cd9ffb89b55",
-        "name":  "Boné Masculino",
+        "name":  "Boné Brooksfield",
         "code":  "2137",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0105.jpg",
@@ -1129,7 +1121,7 @@
     },
     {
         "id":  "78da1908-92fc-4f09-88bf-e2b0445b8534",
-        "name":  "Boné Masculino",
+        "name":  "Boné Brooksfield",
         "code":  "8021",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0106.jpg",
@@ -1137,7 +1129,7 @@
     },
     {
         "id":  "b7456d36-2704-4075-b556-00113ea8d73b",
-        "name":  "Boné Masculino",
+        "name":  "Boné Lacoste",
         "code":  "4450",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0107.jpg",
@@ -1145,7 +1137,7 @@
     },
     {
         "id":  "c5641a64-4ed4-43da-b7a0-ce1117ac5dba",
-        "name":  "Boné Masculino",
+        "name":  "Boné Brooksfield",
         "code":  "5610",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0108.jpg",
@@ -1153,7 +1145,7 @@
     },
     {
         "id":  "0825a8f3-b609-481e-8f8d-42b96aa94486",
-        "name":  "Boné Masculino",
+        "name":  "Boné Brooksfield",
         "code":  "2693",
         "gender":  "masculino",
         "image":  "ASSETS/catalogo _masculino/Bone/IMG-20261005-WA0109.jpg",
