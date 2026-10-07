@@ -1,4 +1,4 @@
-﻿const CACHE_NAME = 'ie-catalogo-v4';
+const CACHE_NAME = 'ie-catalogo-v5';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -21,43 +21,44 @@ self.addEventListener('install', event => {
   );
 });
 
-// Fetch Event
+// Fetch Event - Network First for app files, Cache First for images
 self.addEventListener('fetch', event => {
-  event.respondWith(
-    caches.match(event.request)
-      .then(response => {
-        // Cache hit - return response
-        if (response) {
-          return response;
-        }
-        
-        // Clone the request
-        const fetchRequest = event.request.clone();
+  const url = event.request.url;
 
-        return fetch(fetchRequest).then(
-          response => {
-            // Check if we received a valid response
-            if(!response || response.status !== 200 || response.type !== 'basic') {
-              return response;
-            }
-
-            // Clone the response
-            const responseToCache = response.clone();
-
-            // Ignore caching large image assets dynamically for now
-            // But we could cache them as they are requested:
-            if (event.request.url.includes('/ASSETS/')) {
-                caches.open(CACHE_NAME)
-                .then(cache => {
-                  cache.put(event.request, responseToCache);
-                });
-            }
-
-            return response;
+  // For images, use Cache-First, Network-Fallback
+  if (url.includes('/ASSETS/')) {
+    event.respondWith(
+      caches.match(event.request).then(cachedResponse => {
+        if (cachedResponse) return cachedResponse;
+        return fetch(event.request).then(networkResponse => {
+          if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
+            return networkResponse;
           }
-        );
+          const responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then(cache => {
+            cache.put(event.request, responseToCache);
+          });
+          return networkResponse;
+        });
       })
-  );
+    );
+  } else {
+    // For HTML, JS, JSON, CSS: Network-First, Cache-Fallback
+    event.respondWith(
+      fetch(event.request).then(networkResponse => {
+        if (networkResponse && networkResponse.status === 200 && networkResponse.type === 'basic') {
+          const responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then(cache => {
+            cache.put(event.request, responseToCache);
+          });
+        }
+        return networkResponse;
+      }).catch(() => {
+        // Fallback to cache if offline
+        return caches.match(event.request);
+      })
+    );
+  }
 });
 
 // Activate Event
